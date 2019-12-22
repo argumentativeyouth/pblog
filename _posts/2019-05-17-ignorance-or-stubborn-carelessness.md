@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Ignorance Or Stubborn Carelessness?
+date:   2019-05-17 14:01:35 +0300
+image:  
+tags:   
+---
+
+Running just a blog and running a blog for a business organization that has a product or provides a certain service are not the same.
+
+The latter needs one to have the necessary skills, attitude, knowledge and most importantly, open towards aligning the content of the blog with the ultimate goal of the company – conversion.
+
+If one’s job demands the latter but they are focused on only generating traffic, then they are not adding the required value to the company. Generating traffic and improving visibility is important. But that can be done in many ways. One can write about Game of Thrones and generate traffic. But will that serve the ultimate goal of the business organization?
+
+I find it appalling that many of the so-called experienced bloggers refuse to accept this basic requirement that the latter category of jobs demands.
