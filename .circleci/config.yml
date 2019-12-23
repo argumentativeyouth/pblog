@@ -42,7 +42,7 @@ commands:
 # Workflows orchestrate a set of jobs to be run;
 # the jobs for this pipeline are # configured below
 workflows:
-  version: 2
+  version: 2.1
 
   build-deploy:
     jobs:
@@ -265,7 +265,7 @@ jobs:
             ssh $SSH_USER@$SSH_HOST "<remote deploy command>"
 
 workflows:
-  version: 2
+  version: 2.1
   build-and-deploy:
     jobs:
       - build
