@@ -75,7 +75,16 @@ image:
 68. Velvet Buzzsaw
 69. The Da Vinci Code
 70. Gravity
-71. 
+71. The Birth of a Nation
+72. Forest Gump
+73. 2012
+74. The Shawshank Redemption
+75. The Godfather
+76. Goodfellas
+77. A Beautiful Mind
+78. Avatar
+79. The Exorcism of Emily Rose
+80. 
 
 **Hindi:**
 
