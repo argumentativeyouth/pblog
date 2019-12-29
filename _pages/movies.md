@@ -107,6 +107,106 @@ image:
 100. Breaking Dawn
 
 **Hindi:**
+1. Kuch Kuch Hota Hai
+2. Dilwale Dulhaniya Le Jayenge
+3. Chalte Chalte
+4. Swades
+5. Zero
+6. Dhoom
+7. Dhoom 2
+8. Yeh Jawani Yeh Deewani
+9. 1920
+10. Taare Zameen Par
+11. Barfi
+12. Sanju
+13. Jab Tak Hai Jaan
+14. Article 15
+15. Ra-One
+16. Bombay
+17. Roja
+18. Haider
+19. Black Friday
+20. Devdas
+21. Chak De India
+22. Hum Tum
+23. Dhoom 3
+24. Kuch Na Kaho
+25. Kyu Ho Gaya Na
+26. 3 Idiots
+27. Kahaani
+28. Half Girlfriend
+29. Lagaan
+30. Dangal
+31. Munna Bhai MBBS
+32. PK
+33. Dil Chahta Hai
+34. A Wednesday
+35. Padmavati
+36. English Vinglish
+37. Rang De Basanti
+38. Stree
+39. Rockstar
+40. Hera Feri
+41. Hungama
+42. Ghajini
+43. Pink
+44. Andhadhun
+45. Queen
+46. Special 26
+47. Guru
+48. Gullyboy
+49. Kesari
+50. Mardaani
+51. Veer Zara
+52. Mujhse Dosti Karoge
+53. Life in a Metro
+54. Lust Stories
+55. Krish
+56. Kaho Na Pyar Hai
+57. Om Jay Jagdish
+58. Vicky Donor
+59. Nautanki Saala
+60. Kabhi Alvida Na Kehna
+61. Kalyug
+62. Tumbbad
+63. Kedarnath
+64. Mera Pehla Pehla Pyar
+65. Veere Di Wedding
+66. Hindi Medium
+67. Raees
+68. Jab Harry Met Sejal
+69. Tumhari Sulu
+70. Qarib Qarib Single
+71. Newton
+72. Sarkar
+73. Sarkar Raj
+74. Airlift
+75. Dear Zindagi
+76. Rustom
+77. Udta Punjab
+78. Ae Dil Hai Mushkil
+79. Fan
+80. Raman Raghav
+81. Ki and Ka
+82. Teen
+83. Wazir
+84. Sanam Teri Kasam
+85. Bhaag Milkha Bhaag
+86. Badlapur
+87. Dum Laga Ke Haisha
+88. NH10
+89. Gabbar Is Back
+90. Dilwale
+91. Piku
+92. Tanu Weds Manu
+93. Bajirao Mastani
+94. 2 States
+95. Ek Villain
+96. Mary Kom
+97. Humpty Sharma ki Dulhaniya
+98. Finding Fanny
+99. Raanjhanaa
+100. Madras Cafe
 
 **Bengali:**
 
