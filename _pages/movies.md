@@ -56,3 +56,23 @@ image:
 49. The Prestige
 50. Insomnia
 51. Joker
+52. The Hundred-Foot Journey
+53. The Social Network
+54. The Perfection
+55. Gerald's Game
+56. The Green Mile
+57. Gone Girl
+58. Case 39
+59. The Open House
+60. Hush
+61. Birdbox
+62. The Cabin in the Woods
+63. 1922
+64. Before I Wake
+65. Friend Request
+66. The Boy
+67. Annabelle Creation
+68. Velvet Buzzsaw
+69. The Da Vinci Code
+70. Gravity
+71. 
