@@ -105,6 +105,7 @@ image:
 98. New Moon
 99. Eclipse
 100. Breaking Dawn
+101. Chocolat
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
@@ -232,5 +233,12 @@ image:
 21. Bhooter Bhobishyot
 22. Teen Yaari Kotha
 23. Maach Misti & More
+24. Anuronon
+25. Paromitar Ekdin
+26. Nishijapon
+27. Japanese Wife
 
 **Others:**
+1. 400 Blows
+2. Bicycle Thief
+
