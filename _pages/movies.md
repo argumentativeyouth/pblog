@@ -209,5 +209,28 @@ image:
 100. Madras Cafe
 
 **Bengali:**
+1. Pather Panchali
+2. Gupi Gayen Bagha Bayen
+3. Antaheen
+4. Chokher Bali
+5. Jaatishwar
+6. Goynar Baksho
+7. Aranyer Din Ratri
+8. Agontuk
+9. Nayok
+10. Sonar Kella
+11. Bojhena Se Bojhena
+12. Cholo Let's Go
+13. Bong Connection
+14. Madly Bangali
+15. Abar Aranye
+16. Hemlock Society
+17. Baishe Srabon
+18. Apur Pachali
+19. Chotushkone
+20. Hawa Bodol
+21. Bhooter Bhobishyot
+22. Teen Yaari Kotha
+23. Maach Misti & More
 
 **Others:**
