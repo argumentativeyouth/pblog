@@ -25,3 +25,28 @@ image:
 18. Boyhood
 19. A Dog's Purpose
 20. Marley & Me
+21. 12 Years a Slave
+22. Schindler's List
+23. Déjà Vu
+24. The Taking of Pelham 123
+25. The Call
+26. The Call of the Wild
+27. Source Code
+28. V for Vendetta
+29. Before I Go to Sleep
+30. A Walk to Remember
+31. A Walk in the Woods
+32. Captain Corelli's Mandolin
+33. The Perks of Being a Wallflower
+34. A Star Is Born
+35. The Ugly Truth
+36. The Bounty Hunter
+37. 300
+38. The Wolf of Wall Street
+39. Inception
+40. The Departed
+41. Catch Me if You Can
+42. The Great Gatsby
+43. Blood Diamond
+44. Shutter Island
+45. 
