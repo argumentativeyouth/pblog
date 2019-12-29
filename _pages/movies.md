@@ -76,3 +76,9 @@ image:
 69. The Da Vinci Code
 70. Gravity
 71. 
+
+**Hindi:**
+
+**Bengali:**
+
+**Others:**
