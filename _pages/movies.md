@@ -84,7 +84,27 @@ image:
 77. A Beautiful Mind
 78. Avatar
 79. The Exorcism of Emily Rose
-80. 
+80. I Am Sam
+81. Troy
+82. Aquaman
+83. It Follows
+84. Carrie
+85. Room
+86. Orphan
+87. The Time Traveler's Wife
+88. Philomena
+89. The Number 23
+90. The Silence of the Lambs
+91. Fight Club
+92. Black Swan
+93. It
+94. Harry Potter and the Philosopher's Stone
+95. Harry Potter and the Chamber of Secrets
+96. Harry Potter and the Prisoner of Azkaban
+97. Twilight
+98. New Moon
+99. Eclipse
+100. Breaking Dawn
 
 **Hindi:**
 
