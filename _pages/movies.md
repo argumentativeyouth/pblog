@@ -49,4 +49,10 @@ image:
 42. The Great Gatsby
 43. Blood Diamond
 44. Shutter Island
-45. 
+45. The Dark Knight
+46. Interstellar
+47. The Dark Knight Rises
+48. Batman Begins
+49. The Prestige
+50. Insomnia
+51. Joker
