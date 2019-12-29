@@ -12,7 +12,7 @@ I also works at an AI-powered edtech, revolutionizing education.
 
 I am a rationally cynical & candid person in pursuit of civility.
 
-I love watching [movies](https://pritams.blog/movies), reading books, sketching, and writing.
+I love watching [movies](https://pritams.blog/movies), reading [books](https://pritams.blog/books), sketching, and writing.
 
 I am available on:
 
