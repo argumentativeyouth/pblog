@@ -5,7 +5,7 @@ permalink: /about/
 image: 
 ---
 
-![Hello](/assets/img/8.jpg)
+![Hello](/assets/img/08.jpg)
 I am a doodler, scribbler, blogger, philonoist & spy, in the reverse order.
 
 I also works at an AI-powered edtech, revolutionizing education.
