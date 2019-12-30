@@ -107,6 +107,8 @@ image:
 100. Breaking Dawn
 101. Chocolat
 102. The Big Fish
+103. Rear Window
+104. 
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
@@ -212,6 +214,8 @@ image:
 101. Paheli
 102. Don
 103. Tanu Weds Manu Returns
+104. Raincoat
+105. 
 
 **Bengali:**
 1. Pather Panchali
@@ -241,10 +245,24 @@ image:
 25. Paromitar Ekdin
 26. Nishijapon
 27. Japanese Wife
+28. Bedroom
+29. Autograph
+30. Unishe April
+31. Utsav
+32. Shob Choritro Kalponik
+33. Mishwar Rohoshyo
+34. Abohomaan
+35. Titli
+36. Antar Mahal
+37. Memories in March
+38. Satyanweshi
+39. Dutta vs Dutta
+40. Mr & Mrs Iyer
 
 **Others:**
-1. 400 Blows
+1. The 400 Blows
 2. Bicycle Thief
 3. The Cabinet of Dr. Caligari
-4. 
+4. Veronica
+5. 
 
