@@ -108,7 +108,8 @@ image:
 101. Chocolat
 102. The Big Fish
 103. Rear Window
-104. 
+104. Unfreedom
+105. Midnight's Children
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
@@ -215,7 +216,16 @@ image:
 102. Don
 103. Tanu Weds Manu Returns
 104. Raincoat
-105. 
+105. Darna Mana Hai
+106. Darna Zaroori Hai
+107. Saathiya
+108. Bunty aur Bubly
+109. No One Killed Jessica
+110. Yuva
+111. Ghulam
+112. Black
+113. 
+
 
 **Bengali:**
 1. Pather Panchali
@@ -258,6 +268,8 @@ image:
 38. Satyanweshi
 39. Dutta vs Dutta
 40. Mr & Mrs Iyer
+41. Laptop
+42. 
 
 **Others:**
 1. The 400 Blows
