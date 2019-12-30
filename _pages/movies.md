@@ -110,6 +110,12 @@ image:
 103. Rear Window
 104. Unfreedom
 105. Midnight's Children
+106. 50 First Dates
+107. When Harry Met Sally
+108. The Holiday
+109. Dear John
+110. To Rome With Love
+111. 
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
@@ -286,5 +292,7 @@ image:
 2. Bicycle Thief
 3. The Cabinet of Dr. Caligari
 4. Veronica
-5. 
+5. The Girl with the Dragon Tattoo
+6. Munafik 2
+7. 
 
