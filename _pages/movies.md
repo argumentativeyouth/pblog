@@ -106,6 +106,7 @@ image:
 99. Eclipse
 100. Breaking Dawn
 101. Chocolat
+102. The Big Fish
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
@@ -208,6 +209,9 @@ image:
 98. Finding Fanny
 99. Raanjhanaa
 100. Madras Cafe
+101. Paheli
+102. Don
+103. Tanu Weds Manu Returns
 
 **Bengali:**
 1. Pather Panchali
