@@ -116,6 +116,7 @@ image:
 109. Dear John
 110. To Rome With Love
 111. Dunkirk
+112. A Cure for Wellness
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
