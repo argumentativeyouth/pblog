@@ -8,9 +8,7 @@ image:
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/assets/img/1.jpg" style="width:75%">
-    <img src="/assets/img/2.jpg" style="width:75%">
-    <img src="/assets/img/3.jpg" style="width:75%">
+    <img src="/assets/img/1.jpg" style="width:75%"><img src="/assets/img/2.jpg" style="width:75%"><img src="/assets/img/3.jpg" style="width:75%">
     <img src="/assets/img/4.jpg" style="width:75%">
     <img src="/assets/img/5.jpg" style="width:75%">
     <img src="/assets/img/6.jpg" style="width:75%">
