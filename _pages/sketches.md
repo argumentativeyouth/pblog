@@ -18,8 +18,6 @@ image:
     <img src="/assets/img/8.jpg" style="width:100%">
     <img src="/assets/img/9.jpg" style="width:100%">
     <img src="/assets/img/10.jpg" style="width:100%">
-  </div>
-  <div class="column">
     <img src="/assets/img/11.jpg" style="width:100%">
     <img src="/assets/img/12.jpg" style="width:100%">
     <img src="/assets/img/13.jpg" style="width:100%">
@@ -30,8 +28,6 @@ image:
     <img src="/assets/img/18.jpg" style="width:100%">
     <img src="/assets/img/19.jpg" style="width:100%">
     <img src="/assets/img/20.jpg" style="width:100%">
-  </div>  
-  <div class="column">
     <img src="/assets/img/21.jpg" style="width:100%">
     <img src="/assets/img/22.jpg" style="width:100%">
     <img src="/assets/img/23.jpg" style="width:100%">
@@ -42,8 +38,6 @@ image:
     <img src="/assets/img/28.jpg" style="width:100%">
     <img src="/assets/img/29.jpg" style="width:100%">
     <img src="/assets/img/30.jpg" style="width:100%">
-  </div> 
-  <div class="column">
     <img src="/assets/img/31.jpg" style="width:100%">
     <img src="/assets/img/32.jpg" style="width:100%">
     <img src="/assets/img/33.jpg" style="width:100%">
@@ -54,8 +48,6 @@ image:
     <img src="/assets/img/38.jpg" style="width:100%">
     <img src="/assets/img/39.jpg" style="width:100%">
     <img src="/assets/img/40.jpg" style="width:100%">
-  </div>  
-  <div class="column">
     <img src="/assets/img/41.jpg" style="width:100%">
     <img src="/assets/img/42.jpg" style="width:100%">
     <img src="/assets/img/43.jpg" style="width:100%">
@@ -66,8 +58,6 @@ image:
     <img src="/assets/img/48.jpg" style="width:100%">
     <img src="/assets/img/49.jpg" style="width:100%">
     <img src="/assets/img/50.jpg" style="width:100%">
-  </div>  
-  <div class="column">
     <img src="/assets/img/51.jpg" style="width:100%">
     <img src="/assets/img/52.jpg" style="width:100%">
     <img src="/assets/img/53.jpg" style="width:100%">
@@ -75,5 +65,3 @@ image:
   
 </div>
 
-</body>
-</html>
