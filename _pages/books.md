@@ -29,6 +29,12 @@ image:
 23. Devdas
 24. Love Story
 25. Kill Her Again
-26. 
+26. Da Vinci Code
+27. Angels & Demons
+28. Deception Point
+29. The Lost Symbol
+30. The Kite Runner
+31. And The Mountains Echoed
+
 
 
