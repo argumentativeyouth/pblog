@@ -6,6 +6,7 @@ image:
 tags:   
 ---
 
+
 *First they came for the socialists, and I did not speak out—*
      *Because I was not a socialist.*
 
