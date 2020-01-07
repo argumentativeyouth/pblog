@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  CAA Protests: A Case Of India's Questionable Conscience
-date:   2020-01-06 14:01:35 +0300
+title:  CAA Protests - A Case Of India's Questionable Conscience
+date:   2020-01-07 04:01:35 +0300
 image:  
 tags:   
 ---
