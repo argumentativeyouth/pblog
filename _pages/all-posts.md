@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: All Posts
+permalink: /all-posts/
+image: 
+---
 * [CAA Protests - A Case Of India's Questionable Conscience](https://pritams.blog/caa-protests-a-case-of-indias-questionable-conscience/)
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 * [Living With OCD](https://pritams.blog/living-with-ocd/)
