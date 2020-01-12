@@ -1,3 +1,11 @@
+---
+layout: post
+title:  A Conversation With An Orthodox Person
+date:   2016-01-30 14:01:35 +0300
+image:  
+tags:   
+---
+
 Having a conversation with an orthodox person is so much fun sometimes...
 
 **Me:** Marriage is stupid. The burden of unnecessary associated relationships that comes with marriage makes it miserable. I love my girlfriend with all my heart, and I want her in my life. I don't want her entire family, although I won't deny the perks of having a few beautiful sisters-in-law... But that's second in my priority list.
