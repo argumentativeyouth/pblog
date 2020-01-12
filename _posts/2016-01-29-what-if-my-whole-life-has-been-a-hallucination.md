@@ -1,3 +1,10 @@
+---
+layout: post
+title:  Hallucination
+date:   2016-01-29 14:01:35 +0300
+image:  
+tags:   
+---
 What if my whole life has been a hallucination?
 
 What if one morning I wake up to see that I am on my way to my government job with a 'dabba' in my hand?
