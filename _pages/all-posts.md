@@ -31,6 +31,7 @@ image:
 * [A Night To Remember](https://pritams.blog/a-night-to-remember/)
 * [A Conversation With An Orthodox Person](https://pritams.blog/a-conversation-with-an-orthodox-person/)
 * [Hallucination](https://pritams.blog/what-if-my-whole-life-has-been-a-hallucination/)
+* [People Are Boring. But Not You.](https://pritams.blog/people-are-boring/)
 * [Dear Maa, I haven't Moved On](https://pritams.blog/no-i-have-not-moved-on/)
 * [India](https://pritams.blog/india/)
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
