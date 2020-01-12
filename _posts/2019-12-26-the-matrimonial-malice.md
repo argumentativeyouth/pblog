@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Matrimonial Malicw
+title:  The Matrimonial Malice
 date:   2019-12-26 02:01:35 +0300
 image:  
 tags:   
