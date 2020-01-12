@@ -33,6 +33,7 @@ image:
 * [Hallucination](https://pritams.blog/what-if-my-whole-life-has-been-a-hallucination/)
 * [People Are Boring. But Not You.](https://pritams.blog/people-are-boring/)
 * [I Hope I Don't Get Bored Of Myself](https://pritams.blog/i-hope-i-don-t-get-bored-of-myself/)
+* [Those Sleepless Nights Were A Blessing](https://pritams.blog/those-sleepless-nights-were-a-blessing/)
 * [Dear Maa, I haven't Moved On](https://pritams.blog/no-i-have-not-moved-on/)
 * [India](https://pritams.blog/india/)
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
