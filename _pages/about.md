@@ -8,11 +8,15 @@ image:
 ![Hello](/assets/img/08.jpg)
 I am a doodler, scribbler, blogger, philonoist & spy, in the reverse order.
 
-I also works at an AI-powered edtech, revolutionizing education.
+I also love photography.
+
+You can check out my art and photography [here](https://www.pritams.studio/).
+
+I work at an AI-powered edtech, revolutionizing education.
 
 I am a rationally cynical & candid person in pursuit of civility.
 
-I love watching [movies](https://pritams.blog/movies), reading [books](https://pritams.blog/books), sketching, and writing.
+I love watching [movies](https://pritams.blog/movies) and reading [books](https://pritams.blog/books)... and, of course, writing.
 
 I am available on:
 
