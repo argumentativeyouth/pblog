@@ -14,6 +14,7 @@ image:
 * [An Unexpected Turn](https://pritams.blog/an-unexpected-turn/)
 * [Tit For Tat](https://pritams.blog/tit-for-tat/)
 * [Metro](https://pritams.blog/metro/)
+* [I Was Never A Sentimental](https://pritams.blog/i-was-never-a-sentimental/)
 * [Your 15 Minutes Can Change Someone’s Life](https://pritams.blog/your-15-minutes-can-change-someones-life/)
 * [What Are You Doing With Our Data?](https://pritams.blog/what-are-you-doing-with-our-data/)
 * [Take The Message, Ignore The Way It Has Been Delivered!](https://pritams.blog/take-the-message-ignore-the-way-it-has-been-delivered/)
