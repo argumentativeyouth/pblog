@@ -40,4 +40,5 @@ image:
 * [The Sabarimala Hypocrisy](https://pritams.blog/the-sabarimala-hypocrisy/)
 * [Dear Maa, I haven't Moved On](https://pritams.blog/no-i-have-not-moved-on/)
 * [India](https://pritams.blog/india/)
+* [Just Another Relationship](https://pritams.blog/just-another-relationship/)
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
