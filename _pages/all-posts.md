@@ -27,6 +27,7 @@ image:
 * [Chains](https://pritams.blog/chains/)
 * [It Doesn’t Make Sense](https://pritams.blog/it-doesnt-make-sense/)
 * [How To Kill Gandhi?](https://pritams.blog/how-to-kill-gandhi/)
+* [Void](https://pritams.blog/void/)
 * [Beauty... In Distance...](https://pritams.blog/beauty-in-distance/)
 * [A Night To Remember](https://pritams.blog/a-night-to-remember/)
 * [A Conversation With An Orthodox Person](https://pritams.blog/a-conversation-with-an-orthodox-person/)
