@@ -36,6 +36,7 @@ image:
 * [Sunny Leone, My Academic Life, And A Tale About Interpretation Of Dreams](https://pritams.blog/sunny-leone-my-academic-life-and-a-tale-about-interpretation-of-dreams/)
 * [Most Of Us Give Up, Do A 9 To 5 Job, And Pay Taxes](https://pritams.blog/most-of-us-give-up-do-a-9-to-5-job-and-pay-taxes/)
 * [What Have You Done With Your Life, Why Are You So Proud Of Yourself?](https://pritams.blog/why-are-you-so-proud-of-yourself/)
+* [The Curious Case Of Social Networks](https://pritams.blog/the-curious-case-of-social-networks/)
 * [Void](https://pritams.blog/void/)
 * [Beauty... In Distance...](https://pritams.blog/beauty-in-distance/)
 * [A Night To Remember](https://pritams.blog/a-night-to-remember/)
