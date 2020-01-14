@@ -25,6 +25,7 @@ image:
 * [A Not At All Obsessive-Compulsive Love Story](https://pritams.blog/a-not-at-all-obsessive-compulsive-love-story/)
 * [Alexa, Who Is Your Master?](https://pritams.blog/alexa-who-is-your-master/)
 * [Insomnia](https://pritams.blog/insomnia/)
+* [100 Days Of Sobriety](https://pritams.blog/100-days-of-sobriety/)
 * [Homecoming](https://pritams.blog/homecoming/)
 * [Chains](https://pritams.blog/chains/)
 * [It Doesn’t Make Sense](https://pritams.blog/it-doesnt-make-sense/)
