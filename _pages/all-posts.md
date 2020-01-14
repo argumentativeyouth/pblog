@@ -33,6 +33,7 @@ image:
 * [What Happened When I Made The First Live Nude Sketch Of My Life](https://pritams.blog/what-happened-when-i-made-the-first-live-nude-sketch-of-my-life/)
 * [How To Kill Gandhi?](https://pritams.blog/how-to-kill-gandhi/)
 * [Karan Johar's Coming Out](https://pritams.blog/karan-johar-s-coming-out/)
+* [Sunny Leone, My Academic Life, And A Tale About Interpretation Of Dreams](https://pritams.blog/sunny-leone-my-academic-life-and-a-tale-about-interpretation-of-dreams/)
 * [Void](https://pritams.blog/void/)
 * [Beauty... In Distance...](https://pritams.blog/beauty-in-distance/)
 * [A Night To Remember](https://pritams.blog/a-night-to-remember/)
