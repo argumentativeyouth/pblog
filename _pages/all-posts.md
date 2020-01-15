@@ -50,6 +50,7 @@ image:
 * [Those Sleepless Nights Were A Blessing](https://pritams.blog/those-sleepless-nights-were-a-blessing/)
 * [Late Night Conversation](https://pritams.blog/late-night-conversation/)
 * [I Love Being An Asshole To Most Of The People](https://pritams.blog/i-love-being-an-asshole/)
+* [Brothers](https://pritams.blog/brothers/)
 * [The Sabarimala Hypocrisy](https://pritams.blog/the-sabarimala-hypocrisy/)
 * [Dear Maa, I haven't Moved On](https://pritams.blog/no-i-have-not-moved-on/)
 * [India](https://pritams.blog/india/)
