@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Dear Maa, I haven't Moved On
-date:   2016-01-12 14:01:35 +0300
-image:  
-tags:   
+title: Dear Maa, I haven't Moved On
+date: 2016-01-12 14:01:35 +0300
+image: null
+tags: null
+modified: 2020-01-18T21:16:19+05:30
 ---
+
 Dear Maa,
 
 No,I haven't moved on. Nor do I want to. And even though I never tell you this, there is no denying the fact that I love you. But I love you not because I am obligated to love you. I love you for all the things you taught me, even though you knew some of your teachings might be used against you in future. I love and respect you because of the one-to-one relationship we share, the relationship between an objective mother and a learning son, between a teacher and a student, between friends in the truest sense of the word.
