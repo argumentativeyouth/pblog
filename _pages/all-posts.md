@@ -4,7 +4,9 @@ title: All Posts
 permalink: /all-posts/
 image: 
 ---
+## 2020
 * [CAA Protests - A Case Of India's Questionable Conscience](https://pritams.blog/caa-protests-a-case-of-indias-questionable-conscience/)
+## 2019
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 * [Living With OCD](https://pritams.blog/living-with-ocd/)
 * [An Evening With The Oldest Young Man In My Life](https://pritams.blog/an-evening-with-the-oldest-young-man-in-my-life/)
@@ -26,10 +28,12 @@ image:
 * [It’s Never Too Late To Start Saying No](https://pritams.blog/its-never-too-late-to-start-saying-no/)
 * [Ignorance Or Stubborn Carelessness?](https://pritams.blog/ignorance-or-stubborn-carelessness/)
 * [I Wish I Could Be Proud Of My Mom Again](https://pritams.blog/i-wish-i-could-be-proud-of-my-mom-again/)
+## 2018
 * [A Not At All Obsessive-Compulsive Love Story](https://pritams.blog/a-not-at-all-obsessive-compulsive-love-story/)
 * [Alexa, Who Is Your Master?](https://pritams.blog/alexa-who-is-your-master/)
 * [Insomnia](https://pritams.blog/insomnia/)
 * [100 Days Of Sobriety](https://pritams.blog/100-days-of-sobriety/)
+## 2017
 * [Homecoming](https://pritams.blog/homecoming/)
 * [Chains](https://pritams.blog/chains/)
 * [It Doesn’t Make Sense](https://pritams.blog/it-doesnt-make-sense/)
@@ -49,6 +53,7 @@ image:
 * [Karan Johar's Coming Out](https://pritams.blog/karan-johar-s-coming-out/)
 * [Sunny Leone, My Academic Life, And A Tale About Interpretation Of Dreams](https://pritams.blog/sunny-leone-my-academic-life-and-a-tale-about-interpretation-of-dreams/)
 * [Most Of Us Give Up, Do A 9 To 5 Job, And Pay Taxes](https://pritams.blog/most-of-us-give-up-do-a-9-to-5-job-and-pay-taxes/)
+## 2016
 * [What Have You Done With Your Life, Why Are You So Proud Of Yourself?](https://pritams.blog/why-are-you-so-proud-of-yourself/)
 * [The Curious Case Of Social Networks](https://pritams.blog/the-curious-case-of-social-networks/)
 * [Found... And Lost each Other Again...](https://pritams.blog/found-and-lost-each-other-again/)
@@ -67,7 +72,9 @@ image:
 * [Brothers](https://pritams.blog/brothers/)
 * [The Sabarimala Hypocrisy](https://pritams.blog/the-sabarimala-hypocrisy/)
 * [Dear Maa, I haven't Moved On](https://pritams.blog/no-i-have-not-moved-on/)
+## 2015
 * [India](https://pritams.blog/india/)
 * [Just Another Relationship](https://pritams.blog/just-another-relationship/)
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
+## 2014
 * [Love Child](https://pritams.blog/love-child/)
