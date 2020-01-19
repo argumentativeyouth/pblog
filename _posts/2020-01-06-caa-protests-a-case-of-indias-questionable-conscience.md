@@ -5,8 +5,6 @@ date:   2020-01-07 04:01:35 +0300
 image:  
 tags:   
 ---
-![Protest](/assets/img/protest.jpg)
-
 *First they came for the socialists, and I did not speak out—*
      *Because I was not a socialist.*
 
@@ -23,6 +21,8 @@ tags:
 **-- Martin Niemöller (1892–1984), German Lutheran Pastor**
 
 _____
+
+![Protest](/assets/img/protest.jpg)
 
 These nation-wide protests against the CAA is mind-blowing. It seems like we have saved ourselves from failing as a nation. We have ultimately realized what the ***chaddis*** are doing to the country in general and a certain community in particular. But for some reason, I cannot stop thinking about a another unrelated incident that happened with a friend last year.
 
