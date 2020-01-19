@@ -4,6 +4,7 @@ title: All Posts
 permalink: /all-posts/
 image: 
 ---
+## 
 ## 2020
 * [CAA Protests - A Case Of India's Questionable Conscience](https://pritams.blog/caa-protests-a-case-of-indias-questionable-conscience/)
 ## 2019
