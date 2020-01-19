@@ -11,6 +11,7 @@ image:
 * [The Curious Case Of Learned Social Behaviors](https://pritams.blog/the-curious-case-of-learned-social-behaviors/)
 * [A Blurred World And Illegible Scribbles](https://pritams.blog/a-blurred-world-and-illegible-scribbles/)
 * [The House](https://pritams.blog/the-house/)
+* [Why You Shouldn't Be Scared Of Disappointing Anyone](https://pritams.blog/why-you-shouldnt-be-scared-of-disappointing-anyone/)
 * [Is There Any Difference Between Art And Design?](https://pritams.blog/is-there-any-difference-between-art-and-design/)
 * [An Unexpected Turn](https://pritams.blog/an-unexpected-turn/)
 * [Living A Life Filled With The Excitement Of Losing](https://pritams.blog/living-a-life-with-the-excitement-of-losing/)
