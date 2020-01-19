@@ -12,6 +12,7 @@ image:
 * [A Blurred World And Illegible Scribbles](https://pritams.blog/a-blurred-world-and-illegible-scribbles/)
 * [Is There Any Difference Between Art And Design?](https://pritams.blog/is-there-any-difference-between-art-and-design/)
 * [An Unexpected Turn](https://pritams.blog/an-unexpected-turn/)
+* [Living A Life Filled With The Excitement Of Losing](https://pritams.blog/living-a-life-with-the-excitement-of-losing/)
 * [Tit For Tat](https://pritams.blog/tit-for-tat/)
 * [Metro](https://pritams.blog/metro/)
 * [I Was Never A Sentimental](https://pritams.blog/i-was-never-a-sentimental/)
