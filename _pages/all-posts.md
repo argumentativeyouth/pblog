@@ -4,9 +4,7 @@ title: All Posts
 permalink: /all-posts/
 image: 
 ---
-Here is a list of selected articles written by yours truly:
-
-## 2020
+## Recent Articles
 * [CAA Protests - A Case Of India's Questionable Conscience](https://pritams.blog/caa-protests-a-case-of-indias-questionable-conscience/)
 ## 2019
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
