@@ -6,11 +6,13 @@ image:
 ---
 
 ![Hello](/assets/img/08.jpg)
+
 I am a doodler, scribbler, blogger, philonoist & spy, in the reverse order.
 
 I also love photography.
 
 You can check out my art and photography [here](https://www.pritams.studio/).
+And I also write for [The Onion Saint](https://blog.theonionsaint.com/).
 
 I work at an AI-powered edtech, revolutionizing education.
 
