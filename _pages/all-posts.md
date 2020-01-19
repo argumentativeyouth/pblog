@@ -10,6 +10,7 @@ image:
 * [My Mother Transformed Herself Many A Time In Her Life](https://pritams.blog/my-mother-transformed-herself-many-a-time-in-her-life/)
 * [The Curious Case Of Learned Social Behaviors](https://pritams.blog/the-curious-case-of-learned-social-behaviors/)
 * [A Blurred World And Illegible Scribbles](https://pritams.blog/a-blurred-world-and-illegible-scribbles/)
+* [The House}(https://pritams.blog/the-house/)
 * [Is There Any Difference Between Art And Design?](https://pritams.blog/is-there-any-difference-between-art-and-design/)
 * [An Unexpected Turn](https://pritams.blog/an-unexpected-turn/)
 * [Living A Life Filled With The Excitement Of Losing](https://pritams.blog/living-a-life-with-the-excitement-of-losing/)
