@@ -7,6 +7,7 @@ image:
 * [CAA Protests - A Case Of India's Questionable Conscience](https://pritams.blog/caa-protests-a-case-of-indias-questionable-conscience/)
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 * [Living With OCD](https://pritams.blog/living-with-ocd/)
+* [An Evening With The Oldest Young Man In My Life](https://pritams.blog/an-evening-with-the-oldest-young-man-in-my-life/)
 * [My Mother Transformed Herself Many A Time In Her Life](https://pritams.blog/my-mother-transformed-herself-many-a-time-in-her-life/)
 * [The Curious Case Of Learned Social Behaviors](https://pritams.blog/the-curious-case-of-learned-social-behaviors/)
 * [A Blurred World And Illegible Scribbles](https://pritams.blog/a-blurred-world-and-illegible-scribbles/)
