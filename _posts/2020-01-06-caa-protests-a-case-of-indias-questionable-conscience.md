@@ -5,6 +5,7 @@ date:   2020-01-07 04:01:35 +0300
 image:  
 tags:   
 ---
+![Protest](/assets/img/protest.jpg)
 
 *First they came for the socialists, and I did not speak out—*
      *Because I was not a socialist.*
