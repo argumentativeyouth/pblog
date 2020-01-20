@@ -29,3 +29,7 @@ I am available on:
 - [LinkedIn](https://www.linkedin.com/in/pritamtheargumentativeyouth/)
 
 Feel free to reach out to me 🙂
+
+____
+
+This blog is built using [Jekyll](https://jekyllrb.com/) and hosted on [render](https://render.com/).
