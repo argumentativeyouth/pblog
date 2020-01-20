@@ -7,7 +7,7 @@ tags:
 ---
 "Pritam, it's high time you took life seriously", advised a relative.
 
-It was 2013. I had just started working as an engineer for Aircel. I had begun to enjoy my life at last-which meant buying books with my own money, going out with my girl whenever I wanted, writing and sketching without the tension of having someone stare at me like I was making a bomb. I was loving my job and enjoyed going to office, as well. So, I was taken by suprise when the relative seemed worried about my future. I asked, bewildered, "Why? What did I do wrong?"
+It was 2013. I had just started working as an engineer for Aircel. I had begun to enjoy my life at last-which meant buying books with my own money, going out with my girl whenever I wanted, writing and sketching without the tension of having someone stare at me like I was making a bomb. I loved my job and enjoyed going to office, as well. So, I was taken by suprise when the relative seemed worried about my future. I asked, bewildered, "Why? What did I do wrong?"
 
 "You should be taking up more of responsibilities...You see, your parents are getting older."
 
