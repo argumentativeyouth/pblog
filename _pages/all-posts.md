@@ -74,7 +74,7 @@ image:
 ## 2015
 * [India](https://pritams.blog/india/)
 * [Just Another Relationship](https://pritams.blog/just-another-relationship/)
-* [I Am Not A Goldfish Circling Around In A Fish Bowl... And I Refuse To Live Like One...}(https://pritams.blog/i-am-not-a-goldfish-anymore/)
+* [I Am Not A Goldfish Circling Around In A Fish Bowl... And I Refuse To Live Like One...](https://pritams.blog/i-am-not-a-goldfish-anymore/)
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 ## 2014
