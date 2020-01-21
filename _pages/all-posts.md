@@ -7,7 +7,6 @@ image:
 ## Recent Articles
 * [CAA Protests - A Case Of India's Questionable Conscience](https://pritams.blog/caa-protests-a-case-of-indias-questionable-conscience/)
 ## 2019
-* [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 * [Living With OCD](https://pritams.blog/living-with-ocd/)
 * [An Evening With The Oldest Young Man In My Life](https://pritams.blog/an-evening-with-the-oldest-young-man-in-my-life/)
 * [My Mother Transformed Herself Many A Time In Her Life](https://pritams.blog/my-mother-transformed-herself-many-a-time-in-her-life/)
@@ -76,5 +75,6 @@ image:
 * [India](https://pritams.blog/india/)
 * [Just Another Relationship](https://pritams.blog/just-another-relationship/)
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
+* [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 ## 2014
 * [Love Child](https://pritams.blog/love-child/)
