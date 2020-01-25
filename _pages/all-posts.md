@@ -51,6 +51,7 @@ image:
 * [Individualism What?](https://pritams.blog/individualism-what)
 * [Damaged People](https://pritams.blog/damaged-people)
 * [Dr House, Er Pritam, And A Tale Of Two Love Stories](https://pritams.blog/dr-house-er-pritam-and-a-tale-of-two-love-stories)
+* [The Whining Lady](https://pritams.blog/the-whining-lady)
 * [I Look Like Those Kids From Flipkart Ads](https://pritams.blog/i-look-like-those-kids-from-flipkart-ads/)
 * [Raksha Bandhan](https://pritams.blog/raksha-bandhan/)
 * [It Doesn’t Make Sense](https://pritams.blog/it-doesnt-make-sense/)
