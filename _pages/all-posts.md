@@ -31,9 +31,13 @@ image:
 * [A Not At All Obsessive-Compulsive Love Story](https://pritams.blog/a-not-at-all-obsessive-compulsive-love-story/)
 * [Alexa, Who Is Your Master?](https://pritams.blog/alexa-who-is-your-master/)
 * [Insomnia](https://pritams.blog/insomnia/)
+* [Jealousy](https://pritams.blog/jealousy/)
 * [100 Days Of Sobriety](https://pritams.blog/100-days-of-sobriety/)
 ## 2017
 * [Homecoming](https://pritams.blog/homecoming/)
+* [Her Desire To Be Free](https://pritams.blog/her-desire-to-be-free/)
+* [That Was All She Wanted To Hear](https://pritams.blog/that-was-all-she-wanted-to-hear/)
+* [This Halloween, Dress Up Like A Smart, Confident, Well-Read, Politically Aware, Ambitious Woman](https://pritams.blog/dress-up-like-a-woman/)
 * [Chains](https://pritams.blog/chains/)
 * [It Doesn’t Make Sense](https://pritams.blog/it-doesnt-make-sense/)
 * [78 Times The Modi Government Made Headlines For The Wrong Reasons](https://pritams.blog/78-Times-The-Modi-Government-Made-Headlines-For-The-Wrong-Reasons/)
