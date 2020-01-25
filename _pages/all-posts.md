@@ -53,6 +53,7 @@ image:
 * [Dr House, Er Pritam, And A Tale Of Two Love Stories](https://pritams.blog/dr-house-er-pritam-and-a-tale-of-two-love-stories)
 * [The Whining Lady](https://pritams.blog/the-whining-lady)
 * [I Look Like Those Kids From Flipkart Ads](https://pritams.blog/i-look-like-those-kids-from-flipkart-ads/)
+* [The Idea Of India](https://pritams.blog/the-idea-of-india)
 * [I Will Become A Godman](https://pritams.blog/i-will-become-a-godman)
 * [Raksha Bandhan](https://pritams.blog/raksha-bandhan/)
 * [It Doesn’t Make Sense](https://pritams.blog/it-doesnt-make-sense/)
