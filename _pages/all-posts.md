@@ -44,6 +44,8 @@ image:
 * [Another Smile To Remember](https://pritams.blog/another-smile-to-remember)
 * [Chains](https://pritams.blog/chains/)
 * [The Therapist](https://pritams.blog/the-therapist/)
+* [On Marriage](https://pritams.blog/on-marriage)
+* [An Open Letter To Sushma Swaraj](https://pritams.blog/an-open-letter-to-sushma-swaraj)
 * [Raksha Bandhan](https://pritams.blog/raksha-bandhan/)
 * [It Doesn’t Make Sense](https://pritams.blog/it-doesnt-make-sense/)
 * [78 Times The Modi Government Made Headlines For The Wrong Reasons](https://pritams.blog/78-Times-The-Modi-Government-Made-Headlines-For-The-Wrong-Reasons/)
