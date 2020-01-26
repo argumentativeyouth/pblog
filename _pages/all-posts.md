@@ -109,3 +109,5 @@ image:
 * [Picture Quality Back In Those Days Was Not Good](https://pritams.blog/picture-quality-back-in-those-days-was-not-good)
 * [And Then You Stop Feeling Everything](https://pritams.blog/and-then-you-stop-feeling-everything)
 * [Me With Her... And She With Someone Else](https://pritams.blog/me-with-her-and-she-with-someone-else/)
+## 2011
+* [Cheers To Life... Cheers To Change!](https://pritams.blog/cheers-to-life-cheers-to-change)
