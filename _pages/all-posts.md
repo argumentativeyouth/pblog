@@ -99,4 +99,9 @@ image:
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 ## 2014
+* [Budding Pseudo-Intellectuals](https://pritams.blog/budding-pseudo-intellectuals)
+* [My Christmas](https://pritams.blog/my-christmas)
+* [Someday, I Will Write A Book Worth Reading](https://pritams.blog/someday-i-will-write-a-book-worth-reading)
+* [Hope](https://pritams.blog/hope)
+* [My Father Should Have Come With Us](https://pritams.blog/my-father-should-have-come-with-us)
 * [Love Child](https://pritams.blog/love-child/)
