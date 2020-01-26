@@ -105,3 +105,5 @@ image:
 * [Hope](https://pritams.blog/hope)
 * [My Father Should Have Come With Us](https://pritams.blog/my-father-should-have-come-with-us)
 * [Love Child](https://pritams.blog/love-child/)
+## 2012
+* [Picture Quality Back In Those Days Was Not Good](https://pritams.blog/picture-quality-back-in-those-days-was-not-good)
