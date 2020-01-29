@@ -288,7 +288,7 @@ image:
 40. Mr & Mrs Iyer
 41. Laptop
 42. Ahalya
-43. 
+43. Vinci Da
 
 **Others:**
 1. The 400 Blows
