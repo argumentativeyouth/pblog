@@ -3,6 +3,7 @@ layout: post
 title: What's Wrong With Kunal Kamra?
 date: 2020-12-29
 ---
+
 I thought Kunal Kamra, the comedian known for, among other things, mocking the Modi government, hated the *chaddis*.
 
 Then why was he so nice with the head of Godi Media?
