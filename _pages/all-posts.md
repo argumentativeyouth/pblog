@@ -98,6 +98,7 @@ image:
 * [Just Another Relationship](https://pritams.blog/just-another-relationship/)
 * [I Am Not A Goldfish Circling Around In A Fish Bowl... And I Refuse To Live Like One...](https://pritams.blog/i-am-not-a-goldfish-anymore/)
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
+* [A Beautiful Woman](https://pritams.blog/a-beautiful-woman)
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 ## 2014
 * [Budding Pseudo-Intellectuals](https://pritams.blog/budding-pseudo-intellectuals)
