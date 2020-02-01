@@ -5,6 +5,7 @@ permalink: /mood/
 image: 
 ---
 ## February 2019
+
 | Sunday  | Monday  | Tuesday  | Wednesday  | Thursday  | Friday  | Saturday  |
 |---|---|---|---|---|---|---|
 | 1🥱  | 2  | 3  | 4  | 5  | 6  | 7  |
