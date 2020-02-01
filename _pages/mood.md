@@ -5,7 +5,7 @@ permalink: /mood/
 image: 
 ---
 
-| Mon  | Tues  | Wed  | Thurs  | Fri  | Sat  | Sun  |
+| Sunday  | Monday  | Tuesday  | Wednesday  | Thursday  | Friday  | Saturday  |
 |---|---|---|---|---|---|---|
 | 🥱  | 2  | 3  | 4  | 5  | 6  | 7  |
 | 8  | 9  | 10  | 11  | 12  | 13  | 14  |
