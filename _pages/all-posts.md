@@ -5,6 +5,7 @@ permalink: /all-posts/
 image: 
 ---
 ## Recent Articles
+* [I Should Have Been There In The Photo](https://pritams.blog/i-should-have-been-there-in-the-photo/)
 * [What's Wrong With Kunal Kamra?](https://pritams.blog/whats-wrong-with-kunal-kamra/)
 * [Thinking](https://pritams.blog/thinking/)
 * [CAA Protests - A Case Of India's Questionable Conscience](https://pritams.blog/caa-protests-a-case-of-indias-questionable-conscience/)
