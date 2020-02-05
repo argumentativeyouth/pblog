@@ -1,10 +1,8 @@
-
 ---
 layout: post
 title: It snows Only Once In Our Dreams
 date: 2014-12-12
 ---
-
 I have read it somewhere
 That "It snows only once in our dreams."
 
