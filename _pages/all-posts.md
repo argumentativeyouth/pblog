@@ -90,6 +90,7 @@ image:
 * [Sociable People Are Psychotic Bore](https://pritams.blog/sociable-people-are-psychotic-bore)
 * [The Outcast](https://pritams.blog/the-outcast)
 * [The Hyper-religious](https://pritams.blog/the-hyper-religious)
+* [Selflessly Straightforward And Honest](https://pritams.blog/selflessly-straightforward-and-honest)
 * [Smiling Like An Idiot Doesn't Help At All](https://pritams.blog/smiling-like-an-idiot-does-not-help-at-all/)
 * [A Conversation With An Orthodox Person](https://pritams.blog/a-conversation-with-an-orthodox-person/)
 * [Hallucination](https://pritams.blog/what-if-my-whole-life-has-been-a-hallucination/)
