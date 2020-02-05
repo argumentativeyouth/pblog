@@ -94,6 +94,8 @@ image:
 * [Bharat Maata Is Not A Hindu Goddess. Period.](https://pritams.blog/bharat-maata-is-not-a-hindu-goddess)
 * [Patriarchal Government. Patriarchal Voters.](https://pritams.blog/patriarchal-government-patriarchal-voters)
 * [The Idea Of India Is Just An Idea](https://pritams.blog/the-idea-of-india-is-just-an-idea)
+* [Being Alice In A Fucked Up, Homophobic Country](https://pritams.blog/being-alice-in-a-fucked-up-homophobic-country)
+* [Feeding My Creative Inspirations](https://pritams.blog/feeding-my-creative-aspirations)
 * [Smiling Like An Idiot Doesn't Help At All](https://pritams.blog/smiling-like-an-idiot-does-not-help-at-all/)
 * [A Conversation With An Orthodox Person](https://pritams.blog/a-conversation-with-an-orthodox-person/)
 * [Hallucination](https://pritams.blog/what-if-my-whole-life-has-been-a-hallucination/)
@@ -118,6 +120,7 @@ image:
 * [My Christmas](https://pritams.blog/my-christmas)
 * [Someday, I Will Write A Book Worth Reading](https://pritams.blog/someday-i-will-write-a-book-worth-reading)
 * [Hope](https://pritams.blog/hope)
+* [It snows Only Once In Our Dreams](https://pritams.blog/it-snows-only-once-in-our-dreams)
 * [My Father Should Have Come With Us](https://pritams.blog/my-father-should-have-come-with-us)
 * [Love Child](https://pritams.blog/love-child/)
 ## 2013
