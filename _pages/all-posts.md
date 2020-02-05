@@ -116,6 +116,8 @@ image:
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 * [Cricket, Cigarettewala & A Little Malice](https://pritams.blog/cricket-cigarettewalla-and-a-little-malice)
 * [I Have Got Thirty Bucks In My Pocket Right Now](https://pritams.blog/i-have-got-thirty-bucks-in-my-pocket-right-now)
+* [And This Holds Good For People Outside Facebook As Well](https://pritams.blog/and-this-holds-good-for-people-outside-facebook-as-well/)
+* [Goodbye, Bangalore!](https://pritams.blog/goodbye-bangalore)
 ## 2014
 * [Budding Pseudo-Intellectuals](https://pritams.blog/budding-pseudo-intellectuals)
 * [My Christmas](https://pritams.blog/my-christmas)
