@@ -88,6 +88,8 @@ image:
 * [I Can Never Forget Her… Because I Never Loved Her…](https://pritams.blog/i-can-never-forget-her-because-i-never-loved-her/)
 * [A Conversation On Caste](https://pritams.blog/a-conversation-on-caste)
 * [Sociable People Are Psychotic Bore](https://pritams.blog/sociable-people-are-psychotic-bore)
+* [The Outcast](https://pritams.blog/the-outcast)
+* [The Hyper-religious](https://pritams.blog/the-hyper-religious)
 * [Smiling Like An Idiot Doesn't Help At All](https://pritams.blog/smiling-like-an-idiot-does-not-help-at-all/)
 * [A Conversation With An Orthodox Person](https://pritams.blog/a-conversation-with-an-orthodox-person/)
 * [Hallucination](https://pritams.blog/what-if-my-whole-life-has-been-a-hallucination/)
@@ -106,6 +108,7 @@ image:
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
 * [A Beautiful Woman](https://pritams.blog/a-beautiful-woman)
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
+* [Cricket, Cigarettewala & A Little Malice](https://pritams.blog/cricket-cigarettewalla-and-a-little-malice)
 ## 2014
 * [Budding Pseudo-Intellectuals](https://pritams.blog/budding-pseudo-intellectuals)
 * [My Christmas](https://pritams.blog/my-christmas)
