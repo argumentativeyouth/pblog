@@ -3,7 +3,7 @@ layout: post
 title: Truth Or Dare
 date: 2020-02-07
 ---
-Last month, on my way home, I had around 2 hours layover in Kolkata before my next flight.
+Last month, on my way home, I had a few hours layover in Kolkata before my next flight.
 
 Bored, I started reading a book. But I was interrupted by the voice of the Great Leader.
 
