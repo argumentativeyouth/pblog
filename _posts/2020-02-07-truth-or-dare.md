@@ -49,7 +49,7 @@ Clearly, he wasn't the least bit of amused. He said, "Who said he has to be hone
 
 "Of course," I said and got up. There's no point talking to someone like him.
 
-I pushed my trolley to the other side of the lounge. I sat down, took out my laptop - afterall, I belong to a generation who spent half of their life sitting in front of the computer.
+I pushed my trolley to the other side of the lounge. I sat down, took out my laptop - afterall, I belong to a generation who spent half of their life in front of the computer.
 
 Then I created this meme.
 
