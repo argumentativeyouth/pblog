@@ -5,6 +5,7 @@ permalink: /all-posts/
 image: 
 ---
 ## Recent Articles
+* [Truth Or Dare?](https://pritams.blog/truth-or-dare)
 * [I Should Have Been There In The Photo](https://pritams.blog/i-should-have-been-there-in-the-photo/)
 * [What's Wrong With Kunal Kamra?](https://pritams.blog/whats-wrong-with-kunal-kamra/)
 * [Thinking](https://pritams.blog/thinking/)
