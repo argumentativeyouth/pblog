@@ -7,13 +7,13 @@ Last month, on my way home, I had a few hours layover in Kolkata before my next 
 
 Bored, I started reading a book. But I was interrupted by the voice of the Great Leader.
 
-A man, in his late 50s maybe, sitting beside me, was watching the Man Vs Wild episode featuring the Great Leader in his smart phone.
+A man, in his late 50s maybe, sitting beside me, was watching the Man Vs Wild episode featuring the Great Leader, in his smart phone.
 
 Like seriously? Do people really go back and watch his old coquetry when there is never any dearth of newer ones?
 
 Anyway, uncle *ji* looked very amused and impressed.
 
-I think he noticed me noticing him and couldn't resist saying something, more precisely expressing his admiration for the Great Leader.
+I think he noticed me noticing him and couldn't resist saying something, expressing his admiration for the Great Leader to be precise.
 
 "Look at him. He is so fit," he said.
 
@@ -27,11 +27,13 @@ Then I remembered that Mathematics didn't help Einstein discover gravity.
 
 Anyway, I had to say something. So, said, "Yeah, I agree. Even I am not physically fit."
 
-"How would you be? You guys spent half of your life sitting in front of a computer... Look at him, even at this age, he is doing such daring stuff... Like it's a game."
+"How would you be? You guys have spent half of your life sitting in front of a computer... Look at him, even at this age, he is doing such daring stuff... Like it's a game."
+
+What daring stuff?
 
 I had had enough. I strongly felt the urge to say something to this all-knowing uncle *ji*. How bad could it get anyway?
 
-"I agree, sir. But I must tell you, all this physical fitness won't help him at all in one game..."
+"I agree, sir. But all this physical fitness won't help him at all in one game..."
 
 "What game?" He asked.
 
