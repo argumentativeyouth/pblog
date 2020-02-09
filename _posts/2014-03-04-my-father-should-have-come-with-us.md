@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My Father Should Have Come With Us
+tags:
+- Poetry
 date: 2014-03-04
 ---
 *When I was a kid*
