@@ -1,6 +1,8 @@
 ---
 layout: post
 title: I Should Have Been There In The Photo
+tags:
+- Poetry
 date: 2020-02-02
 ---
 *I look at the old, fading photograph of my grandpa,*
