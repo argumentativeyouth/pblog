@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A Prolonged Intrusion
+tags:
+- Poetry
 date: 2014-02-08
 ---
 *Sometimes,*
