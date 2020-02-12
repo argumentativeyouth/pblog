@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Am Getting Married & Here's What You Should Know About It: FAQs About My Marriage
+title: I Am Getting Married & Here's What You Should Know About It - FAQs About My Marriage
 date: 2020-02-12
 ---
 Yes. I am getting married.
