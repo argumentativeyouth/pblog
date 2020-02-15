@@ -79,7 +79,7 @@ image:
 72. Forest Gump
 73. 2012
 74. The Shawshank Redemption
-75. The Godfather
+75. The Godfather 1
 76. Goodfellas
 77. A Beautiful Mind
 78. Avatar
@@ -155,6 +155,8 @@ image:
 148. Into The Wild
 149. Zodiac
 150. The Mist
+151. The Godfather 2
+152. The Godfather 3
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
