@@ -243,7 +243,22 @@ image:
 122. Dil Dhadakne Do
 123. Jhoota Hi Sahi
 124. Ghost Stories
-
+125. Uri: The Surgical Strike
+126. Pari
+127. Kapoor & Sons
+128. Neerja
+129. Trapped
+130. Azhar
+131. Bajrangi Bhaijaan
+132. Baby
+133. Talvar
+134. Drishyam
+135. Manjhi - The Mountain Main
+136. Masaan
+137. Hunterr
+138. Tamasha
+139. Brothers
+140. Dharam Sankat Mein
 
 **Bengali:**
 1. Pather Panchali
