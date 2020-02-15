@@ -117,6 +117,44 @@ image:
 110. To Rome With Love
 111. Dunkirk
 112. A Cure for Wellness
+113. The Matrix
+114. Bohemian Rhapsody
+115. Fantastic Beasts: The Crimes of Grindelwald
+116. The Nun
+117. Fantastic Beasts And Where To Find Them
+118. Ouija: Origin of Evil
+119. The Martian
+120. The Grand Budapest Hotel
+121. Fury
+122. The Theory of Everything
+123. The Maze Runner
+124. The Hobbit: The Desolation of Smaug
+125. The Conjuring
+126. The Croods
+127. Frozen
+128. Before Midnight
+129. Brave
+130. The Hobbit: An Unexpected Journey
+131. The Help
+132. The Adventures of Tintin
+133. Rise of the Planet of the Apes
+134. My Week With Marilyn
+135. Limitless
+136. Another Earth
+137. The Lincoln Lawyer
+138. 127 Hours
+139. Harry Potter and the Deathly Hallows: Part 1
+140. Inglorious Bastards
+141. Sherlock Holmes (2009)
+142. Angels & Demons
+143. 17 Again
+144. Wall-E
+145. The Curious Case Of Benjamin Button
+146. Taken
+147. The Boy In The Striped Pajamas
+148. Into The Wild
+149. Zodiac
+150. The Mist
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
