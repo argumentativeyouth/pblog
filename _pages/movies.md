@@ -298,4 +298,3 @@ image:
 4. Veronica
 5. The Girl with the Dragon Tattoo
 6. Munafik 2
-
