@@ -5,6 +5,7 @@ permalink: /all-posts/
 image: 
 ---
 ## Recent Articles
+* [Gandhi, Feynman, Bajrang Dal, Bajrang Dal And A Curious Tale Of Power Structures](https://pritams.blog/gandhi-feynman-bajrang-dal-and-a-curious-tale-of-power-structures/)
 * [I Am Getting Married & Here's What You Should Know About It - FAQs About My Marriage](https://pritams.blog/faqs-about-my-marriage/)
 * [Truth Or Dare?](https://pritams.blog/truth-or-dare)
 * [I Should Have Been There In The Photo](https://pritams.blog/i-should-have-been-there-in-the-photo/)
