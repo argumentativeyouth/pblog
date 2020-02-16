@@ -225,7 +225,7 @@ image:
 64. Mera Pehla Pehla Pyar
 65. Veere Di Wedding
 66. Hindi Medium
-67. Raees
+67. [Raees](https://moderngaze.net/raees-just-another-movie-that-serves-the-hindutva-interest-of-making-muslims-the-other/)
 68. Jab Harry Met Sejal
 69. Tumhari Sulu
 70. Qarib Qarib Single
