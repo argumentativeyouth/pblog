@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gandhi, Feynman, Bajrang Dal, Bajrang Dal And A Curious Tale Of Power Structures
+title: Gandhi, Feynman, Bajrang Dal, And A Curious Tale Of Power Structures
 date: 2020-02-16
 ---
 Back in the 1930s, it was believed that stuttering was genetic. That is, if you were born a stutterer, nothing could be done about it.
