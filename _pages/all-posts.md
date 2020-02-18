@@ -37,6 +37,7 @@ image:
 ## 2018
 * [A Not At All Obsessive-Compulsive Love Story](https://pritams.blog/a-not-at-all-obsessive-compulsive-love-story/)
 * [Alexa, Who Is Your Master?](https://pritams.blog/alexa-who-is-your-master/)
+* [It's Good To Be Quiet](https://pritams.blog/its-good-to-be-quiet)
 * [Insomnia](https://pritams.blog/insomnia/)
 * [Jealousy](https://pritams.blog/jealousy/)
 * [100 Days Of Sobriety](https://pritams.blog/100-days-of-sobriety/)
