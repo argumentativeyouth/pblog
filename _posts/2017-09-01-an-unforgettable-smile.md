@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Unforgettable Smile
-date: 2019-03-14
+date: 2017-09-01
 ---
 As I was standing on the footpath outside my office today, smoking, I saw a man coming out of the ATM, counting the notes he had just withdrawn. There were many five hundred rupee notes and five hundred rupee notes.
 
