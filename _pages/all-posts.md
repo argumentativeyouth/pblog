@@ -34,6 +34,7 @@ image:
 * [It’s Never Too Late To Start Saying No](https://pritams.blog/its-never-too-late-to-start-saying-no/)
 * [Ignorance Or Stubborn Carelessness?](https://pritams.blog/ignorance-or-stubborn-carelessness/)
 * [I Wish I Could Be Proud Of My Mom Again](https://pritams.blog/i-wish-i-could-be-proud-of-my-mom-again/)
+* [A Self-Written Obituary](https://pritams.blog/a-self-written-obituary/)]
 ## 2018
 * [A Not At All Obsessive-Compulsive Love Story](https://pritams.blog/a-not-at-all-obsessive-compulsive-love-story/)
 * [Alexa, Who Is Your Master?](https://pritams.blog/alexa-who-is-your-master/)
