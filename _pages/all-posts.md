@@ -35,7 +35,6 @@ image:
 * [Ignorance Or Stubborn Carelessness?](https://pritams.blog/ignorance-or-stubborn-carelessness/)
 * [I Wish I Could Be Proud Of My Mom Again](https://pritams.blog/i-wish-i-could-be-proud-of-my-mom-again/)
 * [A Self-Written Obituary](https://pritams.blog/a-self-written-obituary/)
-* [An Unforgettable Smile](https://pritams.blog/an-unforgettable-smile)
 ## 2018
 * [A Not At All Obsessive-Compulsive Love Story](https://pritams.blog/a-not-at-all-obsessive-compulsive-love-story/)
 * [Alexa, Who Is Your Master?](https://pritams.blog/alexa-who-is-your-master/)
@@ -65,6 +64,7 @@ image:
 * [I Look Like Those Kids From Flipkart Ads](https://pritams.blog/i-look-like-those-kids-from-flipkart-ads/)
 * [The Idea Of India](https://pritams.blog/the-idea-of-india)
 * [I Will Become A Godman](https://pritams.blog/i-will-become-a-godman)
+* [An Unforgettable Smile](https://pritams.blog/an-unforgettable-smile)
 * [Raksha Bandhan](https://pritams.blog/raksha-bandhan/)
 * [It Doesn’t Make Sense](https://pritams.blog/it-doesnt-make-sense/)
 * [78 Times The Modi Government Made Headlines For The Wrong Reasons](https://pritams.blog/78-Times-The-Modi-Government-Made-Headlines-For-The-Wrong-Reasons/)
