@@ -92,6 +92,7 @@ image:
 * [Beauty... In Distance...](https://pritams.blog/beauty-in-distance/)
 * [A Night To Remember](https://pritams.blog/a-night-to-remember/)
 * [I Can Never Forget Her… Because I Never Loved Her…](https://pritams.blog/i-can-never-forget-her-because-i-never-loved-her/)
+* [When It Comes To Love, The Craziest Women Are The Best](https://pritams.blog/when-it-comes-to-love-the-craziest-women-are-the-best)
 * [A Conversation On Caste](https://pritams.blog/a-conversation-on-caste)
 * [Sociable People Are Psychotic Bore](https://pritams.blog/sociable-people-are-psychotic-bore)
 * [The Outcast](https://pritams.blog/the-outcast)
