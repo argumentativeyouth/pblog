@@ -342,7 +342,7 @@ image:
 39. Dutta vs Dutta
 40. Mr & Mrs Iyer
 41. Laptop
-42. Ahalya
+42. [Ahalya](https://moderngaze.net/ahalya-challenging-the-ethics-and-morality-of-the-scriptures/)
 43. Vinci Da
 44. Professor Shonku O El Dorado
 
