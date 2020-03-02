@@ -300,6 +300,7 @@ image:
 139. Brothers
 140. Dharam Sankat Mein
 141. Anukul
+142. Delhi 6
 
 **Bengali:**
 1. Pather Panchali
