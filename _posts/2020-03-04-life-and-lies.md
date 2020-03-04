@@ -26,7 +26,7 @@ One of the girls who had already started following me on Instagram replied, "Whe
 
 I thought and realized that probably I too am turning into a zombie. But it's also true that I enjoy, in fact, I am kind of addicted to the things that keep me busy at work these days. 
 
-Anyway, I am on leave and this has given me the opportunity to go through some of the old and dilapidated folders my hard drive. I came across some of the last photographs I took. Here they are:
+Anyway, I am on leave and this has given me the opportunity to go through some of the old and dilapidated folders in my hard drive. I came across some of the last photographs I took. Here they are:
 
 <center>She Dreams With Her Feet</center>
 ![She Dreams With Her Feet](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/a.jpg)
