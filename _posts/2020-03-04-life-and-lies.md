@@ -29,6 +29,7 @@ I thought and realized that probably I too am turning into a zombie. But it's al
 Anyway, I am on leave and this has given me the opportunity to go through some of the old and dilapidated folders my hard drive. I came across some of the last photographs I took. Here they are:
 
 ![She Dreams With Her Feet](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/a.jpg)
+<center>She Dreams With Her Feet</center>
 
 ![The Tent Of A Prince](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/b.jpg)
 
@@ -38,20 +39,20 @@ Anyway, I am on leave and this has given me the opportunity to go through some o
 
 ![His Silent Monologue Was Defeaning](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/e.jpeg)
 
-![Celebration]()
+![Celebration](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/f.jpg)
 
-![Melancholia]()
+![Melancholia](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/g.jpg)
 
-![Another Digital Prisoner]()
+![Another Digital Prisoner](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/h.jpg)
 
-![Princess In The Traffic]()
+![Princess In The Traffic](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/i.jpg)
 
-![I Wish I Could See The World Through His Eyes]()
+![I Wish I Could See The World Through His Eyes](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/j.jpg)
 
-![The Gossip Guys]()
+![The Gossip Guys](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/k.jpeg)
 
-![Never Visit A Bookstore Unprepared]()
+![Never Visit A Bookstore Unprepared](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/l.jpg)
 
-![But It Rained]()
+![But It Rained](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/m.jpg)
 
 Damn! I miss those days.
