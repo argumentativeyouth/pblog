@@ -30,13 +30,13 @@ Anyway, I am on leave and this has given me the opportunity to go through some o
 
 ![She Dreams With Her Feet](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/a.jpg)
 
-![The Tent Of A Prince]()
+![The Tent Of A Prince](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/b.jpg)
 
-![Insomnia]()
+![Insomnia](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/c.jpeg)
 
-![Goodbyes Are Difficult]()
+![Goodbyes Are Difficult](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/d.jpg)
 
-![His Silent Monologue Was Defeaning]()
+![His Silent Monologue Was Defeaning](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/e.jpeg)
 
 ![Celebration]()
 
