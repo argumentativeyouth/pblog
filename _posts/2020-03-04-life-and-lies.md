@@ -28,31 +28,43 @@ I thought and realized that probably I too am turning into a zombie. But it's al
 
 Anyway, I am on leave and this has given me the opportunity to go through some of the old and dilapidated folders my hard drive. I came across some of the last photographs I took. Here they are:
 
-![She Dreams With Her Feet](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/a.jpg)
 <center>She Dreams With Her Feet</center>
+![She Dreams With Her Feet](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/a.jpg)
 
+<center>The Tent Of A Prince</center>
 ![The Tent Of A Prince](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/b.jpg)
 
+<center>Insomnia</center>
 ![Insomnia](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/c.jpeg)
 
+<center>Goodbyes Are Difficult</center>
 ![Goodbyes Are Difficult](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/d.jpg)
 
+<center>His Silent Monologue Was Defeaning</center>
 ![His Silent Monologue Was Defeaning](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/e.jpeg)
 
+<center>Celebration</center>
 ![Celebration](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/f.jpg)
 
+<center>Melancholia</center>
 ![Melancholia](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/g.jpg)
 
+<center>Another Digital Prisoner</center>
 ![Another Digital Prisoner](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/h.jpg)
 
+<center>Princess In The Traffic</center>
 ![Princess In The Traffic](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/i.jpg)
 
+<center>I Wish I Could See The World Through His Eyes</center>
 ![I Wish I Could See The World Through His Eyes](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/j.jpg)
 
+<center>The Gossip Guys</center>
 ![The Gossip Guys](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/k.jpeg)
 
+<center>Never Visit A Bookstore Unprepared</center>
 ![Never Visit A Bookstore Unprepared](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/l.jpg)
 
+<center>But It Rained</center>
 ![But It Rained](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/m.jpg)
 
 Damn! I miss those days.
