@@ -134,6 +134,7 @@ image:
 * [Someday, I Will Write A Book Worth Reading](https://pritams.blog/someday-i-will-write-a-book-worth-reading)
 * [Hope](https://pritams.blog/hope)
 * [It Snows Only Once In Our Dreams](https://pritams.blog/it-snows-only-once-in-our-dreams)
+* [The Bedsheet](https://pritams.blog/the-bedsheet)
 * [The Servant](https://pritams.blog/the-servant)
 * [My Father Should Have Come With Us](https://pritams.blog/my-father-should-have-come-with-us)
 * [A Prolonged Intrusion](https://pritams.blog/a-prolonged-intrusion)
