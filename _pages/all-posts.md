@@ -123,6 +123,7 @@ image:
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
 * [A Beautiful Woman](https://pritams.blog/a-beautiful-woman)
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
+* [The Whimsical Weed Philosophy](https://pritams.blog/the-whimsical-weed-philosophy)
 * [Cricket, Cigarettewala & A Little Malice](https://pritams.blog/cricket-cigarettewalla-and-a-little-malice)
 * [I Have Got Thirty Bucks In My Pocket Right Now](https://pritams.blog/i-have-got-thirty-bucks-in-my-pocket-right-now)
 * [And This Holds Good For People Outside Facebook As Well](https://pritams.blog/and-this-holds-good-for-people-outside-facebook-as-well/)
