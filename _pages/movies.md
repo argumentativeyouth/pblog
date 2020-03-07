@@ -302,6 +302,7 @@ image:
 140. Dharam Sankat Mein
 141. Anukul
 142. Delhi 6
+143. Chhapaak
 
 **Bengali:**
 1. Pather Panchali
