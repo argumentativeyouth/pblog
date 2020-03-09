@@ -304,6 +304,9 @@ image:
 142. Delhi 6
 143. Chhapaak
 144. Thappad
+145. Raaz 2
+146. Once Upon A Time In Mumbai
+147. Margarita With A Straw
 
 **Bengali:**
 1. Pather Panchali
