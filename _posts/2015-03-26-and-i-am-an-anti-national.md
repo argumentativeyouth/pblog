@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Good Indians Pray For Their Country, The BEST Of Indians Get Violent… And I Am An Anti National…
+title: The Good Indians Pray For Their Country, The BEST Of Indians Get Violent, And I Am An Anti National
 date: 2015-03-26
 ---
 Seeing my indifference towards today’s match between India and Australia, a facebook friend accused me of being a ‘gaddar’, a traitor. When asked what she does for the country, she replied promptly, “Like a responsible citizen, I pay my tax. And whenever there’s a match between India and some other country, I pray…”
