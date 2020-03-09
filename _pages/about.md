@@ -11,8 +11,6 @@ I am a doodler, scribbler, blogger, philonoist & spy, in the reverse order.
 
 I also love photography.
 
-You can check out my art and photography [here](https://www.pritams.studio/).
-
 I work at an AI-powered edtech, revolutionizing education.
 
 I am a rationally cynical & candid person in pursuit of civility.
