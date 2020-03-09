@@ -303,6 +303,7 @@ image:
 141. Anukul
 142. Delhi 6
 143. Chhapaak
+144. Thappad
 
 **Bengali:**
 1. Pather Panchali
@@ -357,3 +358,4 @@ image:
 4. Veronica
 5. The Girl with the Dragon Tattoo
 6. Munafik 2
+7. Parasite
