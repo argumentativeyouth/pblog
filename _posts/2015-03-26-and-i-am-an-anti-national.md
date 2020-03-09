@@ -28,3 +28,4 @@ If a game is not played and enjoyed as a game, I will never be a part of it.
 And it’s not because it’s cricket. It’s because cricket is the most popular game in India. And so it’s consequences are more grave.
 
 And those who think that not being a cricket fan is equivalent to being a ‘gaddar’, a terrorist, a Pakistani, I have this screen shot for you…
+![I Am An Anti National](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/i-am-an-anti-national.jpg)
