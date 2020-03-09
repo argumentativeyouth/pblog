@@ -135,6 +135,7 @@ image:
 * [Someday, I Will Write A Book Worth Reading](https://pritams.blog/someday-i-will-write-a-book-worth-reading)
 * [Hope](https://pritams.blog/hope)
 * [It Snows Only Once In Our Dreams](https://pritams.blog/it-snows-only-once-in-our-dreams)
+* [God Is Like A Spoilt, Insensitive, Selfish Brat Of A Rich Dad](https://pritams.blog/god-is-like-a-spoilt-insensitive-selfish-brat-of-a-rich-dad)
 * [The Bedsheet](https://pritams.blog/the-bedsheet)
 * [The Servant](https://pritams.blog/the-servant)
 * [My Father Should Have Come With Us](https://pritams.blog/my-father-should-have-come-with-us)
