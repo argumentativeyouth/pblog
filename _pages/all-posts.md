@@ -122,6 +122,7 @@ image:
 * [I Am Not A Goldfish Circling Around In A Fish Bowl... And I Refuse To Live Like One...](https://pritams.blog/i-am-not-a-goldfish-anymore/)
 * [I Wish We Could Loot Them](https://pritams.blog/i-wish-we-could-loot-them/)
 * [A Beautiful Woman](https://pritams.blog/a-beautiful-woman)
+* [The Good Indians Pray For Their Country, The BEST Of Indians Get Violent, And I Am An Anti National](https://pritams.blog/and-i-am-an-anti-national/)
 * [The Matrimonial Malice](https://pritams.blog/the-matrimonial-malice/)
 * [The Whimsical Weed Philosophy](https://pritams.blog/the-whimsical-weed-philosophy)
 * [Cricket, Cigarettewala & A Little Malice](https://pritams.blog/cricket-cigarettewalla-and-a-little-malice)
