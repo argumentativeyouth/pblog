@@ -158,6 +158,7 @@ image:
 151. The Godfather 2
 152. The Godfather 3
 153. [The Irishman](https://moderngaze.net/the-irishman-review/)
+154. The Invisible Man
 
 **Hindi:**
 1. Kuch Kuch Hota Hai
