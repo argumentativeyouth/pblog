@@ -3,8 +3,6 @@ layout: post
 title: Janta Curfew From My Balcony
 date: 2020-03-22
 ---
-JANTA CURFEW FROM MY BALCONY
-
 Since the usually crowded streets were empty today, two kids from the neighborhood, probably eight and twelve years old respectively, decided to sneak out in the afternoon and play cricket on the streets. 
 
 I wonder if their parents were aware of their absence. Didn't the sudden silence inside the house bother them? 
