@@ -9,11 +9,11 @@ I wonder if their parents were aware of their absence. Didn't the sudden silence
 
 Come to think of it, I feel they were aware that the kids were not inside the house.
 
-The parents probably couldn't resist the temptation of making the best use of the privacy that the kids' sneaking outside gave them. You see, life with two kids in these small 1 BHK flats do not give much opportunity to even make out, forget engage in fully-fledged sex.
+The parents probably couldn't resist the temptation of making the best use of the privacy that the kids' sneaking outside gave them. You see, life with two kids in these small 1 BHK flats do not give much opportunity to even make out, forget engage in full-fledged sex.
 
 So, probably that's why, they kept silence, pretended they didn't hear the door, let them sneak out. What would happen? What could happen? Anyway, it's 3:45 already. 1 hour and 15 minutes and then they will clap and ring the bells, and all viruses will run for their life, go back to wherever they came from. So, let them go out. Let's have sex.
 
-The kids started playing. An uncle ji, probably in his late 30s, who was sitting idly under the shed of a closed shop, got a purpose in life. He was getting bored. The cigarette shop is closed and he had no one to bully, you see.
+The kids started playing. An uncle ji, probably in his late 30s, who had been sitting idly under the shed of a closed shop, got a purpose in his life. He was getting bored. The cigarette shop was closed and he had no one to bully, you see.
 
 He snatched the bat from them, asked the older one to bowl. The younger one was instructed to field, get the ball as fast as possible.
 
