@@ -5,6 +5,7 @@ permalink: /all-posts/
 image: 
 ---
 ## Recent Articles
+* [She Dreams With Her Feet](https://pritams.blog/she-dreams-with-her-feet/)
 * [Janta Curfew From My Balcony](https://pritams.blog/janta-curfew-from-my-balcony/)
 * [The Psychology Of Bragging About Having A Big Family - A Conversation](https://pritams.blog/the-psychology-of-bragging-about-having-a-big-family)
 * [Life And Lies](https://pritams.blog/life-and-lies/)
