@@ -2,6 +2,7 @@
 layout: post
 title: A Gentle Reminder To My Own Self Or Confessions Of A Now Sober Man
 date: 2019-04-20
+draft: true
 ---
 On 6th October 2017, I had my last alcoholic drink. I had been trying to quit it for good for quite some time. Although I was successful in tapering it off to some extent, it wasn't much and I was still drinking every day. 
 
