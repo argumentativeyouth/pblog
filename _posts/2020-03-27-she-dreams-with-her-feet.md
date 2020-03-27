@@ -4,7 +4,7 @@ title: She Dreams With Her Feet
 date: 2020-03-27
 ---
 ![She Dreams With Her Feet](https://raw.githubusercontent.com/argumentativeyouth/pblog/master/assets/img/a.jpg)
-I would see her very evening, around 5-30-6:00, while waiting at Sony Signal to catch an auto back home. She would cross the road gracefully, walking like the world was beneath her feet. Her lofty steps would reveal her beautiful, long legs, adorned with anklets. She would stand just next to me as the man with her would try to catch an auto to <i>Shantinagar</i>.
+I would see her very evening, around 5-30-6:00, while waiting at Sony Signal to catch an auto back home. She would cross the road gracefully, walking like the world was beneath her feet. Her lofty steps would reveal her beautiful, long legs, adorned with anklets. She would stand just next to me as the man with her would try to catch an auto to Shantinagar.
 
 The girl, probably 23-34 years old, and the man in his late 50s, looked like an unusual couple. Of course, I do not mean ‘couple’ couple. But there was something odd about them together. 
 
